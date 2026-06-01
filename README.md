@@ -5,7 +5,7 @@ My Python programming learnings at pentagon space
 Started with the 8 days Grooming interview preparation session for Job Fair at pentagon space happening after 8 days from todays date that is 29 th may 2026.
 
 
-Day 1
+Day 1  - List
 
 Today started with list
 
