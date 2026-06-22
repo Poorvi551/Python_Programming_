@@ -18,4 +18,11 @@ Today started with list
 7. Write a program to check whether the list is palindrome or not using two pointer.
 8. Write a program to find the common elements from the two lists.
 9. Write a program to find the frequency of elements from the given list.
-10. Write a program to rotate the list for n numbers of times to right or left. 
+10. Write a program to rotate the list for n numbers of times to right or left.
+11. Write a program to move zeroes to end of the list.
+12. Write a program to find missing numbers from list.
+13. Write a program to find the pair with given sum.
+
+     Assignment Questions
+
+14. Write a program to
