@@ -7,6 +7,7 @@ Started with the 8 days Grooming interview preparation session for Job Fair at p
 # Table of contents:
 
 1. [List](#list)
+2. [Strings](./strings)
 
 
 ### List
