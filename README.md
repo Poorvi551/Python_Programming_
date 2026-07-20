@@ -8,10 +8,10 @@ Started with the 8 days Grooming interview preparation session for Job Fair at p
 
 1. [List](#list)
 2. [Strings](./strings)
-3. [Numbers](./numbers)
-4. [Dictionary Programs](./dictionary-programs)
-5. [Pattern Programming](./pattern-programming)
-6. [Recursion](./recursion)
+3. [Numbers](./Numbers)
+4. [Dictionary Programs](./Dictionary-Programs)
+5. [Pattern Programming](./Pattern-Programming)
+6. [Recursion](./Recursion)
 
 ### List
 
